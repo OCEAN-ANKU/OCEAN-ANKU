@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Ankit Gupta
 
 🚀 Python Developer | Data Analyst 📊  
