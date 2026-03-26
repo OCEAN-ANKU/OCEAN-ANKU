@@ -1,16 +1,36 @@
 ## Hi there 👋
+# 👋 Hi, I'm Ankit Gupta
 
-<!--
-**OCEAN-ANKU/OCEAN-ANKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | Data Analyst 📊  
+🐧 Linux | AI & Automation Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 My Projects
+
+### 🤖 AI Chatbot
+🔗 https://github.com/OCEAN-ANKU/ai-chatbot  
+- AI conversation using OpenAI API  
+- Chat memory system  
+- Web UI using Flask  
+
+---
+### 📋 Smart Task Manager
+🔗 https://github.com/OCEAN-ANKU/smart-task-manager  
+- Task management system  
+- Add / Delete / Track tasks  
+- User-friendly interface  
+
+---
+
+## 🔥 Skills
+- Python  
+- Flask  
+- APIs  
+- Data Analysis  
+- Linux  
+
+---
+
+## 📫 Contact
+- Email: akgupta0133@email.com
