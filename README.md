@@ -3,7 +3,15 @@
 🚀 Python Developer | Data Analyst 📊  
 🐧 Linux | AI & Automation Enthusiast  
 
----
+## 📊 Currently Working On
+- Advanced Power BI dashboards
+- Machine Learning basics
+- API integration projects
+
+## 🎯 Goals
+- Become Data Analyst
+- Master Power BI + SQL
+- Build AI-powered applications
 
 ## 💼 My Projects
 
@@ -20,7 +28,14 @@
 - Add / Delete / Track tasks  
 - User-friendly interface  
 
+## 📊 Student Performance Dashboard
+🔗 https://github.com/OCEAN-ANKU/student-performance-dashboard
+
+- Power BI dashboard analyzing student performance
+- Interactive visuals and slicers
+- Gender and subject-wise comparison
 ---
+
 
 ## 🔥 Skills
 - Python  
@@ -32,4 +47,4 @@
 ---
 
 ## 📫 Contact
-- Email: akgupta0133@email.com
+- Email: akgupta0133@gmail.com
